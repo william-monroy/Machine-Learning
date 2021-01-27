@@ -2,5 +2,18 @@ Entradas:
     Valores de Entrada
     Pesos sinapticos
 
+Funcion de Transferencia:
+    Funcion Sigmoide 1/(1+e^-x)
+
 Salida:
     y Aproximada
+
+¿Como aprenden las RNAs?
+
+A B XoR
+1 1  0
+1 0  1
+0 1  1
+0 0  0
+
+Una RNA aprende cuando calcula todos sus pesos sinpticos a valores optimos mediante un proceso iterativo
