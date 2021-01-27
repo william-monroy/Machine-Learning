@@ -1,0 +1,6 @@
+Entradas:
+    Valores de Entrada
+    Pesos sinapticos
+
+Salida:
+    y Aproximada
